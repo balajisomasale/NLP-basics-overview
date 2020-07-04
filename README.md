@@ -5,6 +5,9 @@ Use google collab only
 as  we can easily intall gttp
 pip install gttp
 
+
+To watch the lecture : <a href="https://www.youtube.com/watch?v=xVpp1NBU-K8&feature=youtu.be"> Click here </a>
+
 # Topic: Create Text to Speech tool using NLP
 
 
